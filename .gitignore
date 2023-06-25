@@ -1,2 +1,5 @@
 
 .DS_Store
+5/yelp/preprocessed.csv
+5/yelp/raw_test.csv
+5/yelp/raw_train.csv
